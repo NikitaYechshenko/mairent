@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="510" viewBox="0 0 1440 510" role="img" aria-labelledby="title desc">
+  <title id="title">MaiRent production snapshot</title>
+  <desc id="desc">Key first-month production metrics for MaiRent.</desc>
+  <rect width="1440" height="510" fill="#f8f6f0"/>
+  <rect x="32" y="32" width="1376" height="446" rx="8" fill="#fffdf8" stroke="#d8d0c3"/>
+  <text x="80" y="105" fill="#165f43" font-family="Georgia, serif" font-size="20" letter-spacing="3">MAIRENT · PRODUCTION SNAPSHOT</text>
+  <text x="80" y="155" fill="#20231f" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">First month, measured in real usage</text>
+  <text x="80" y="190" fill="#6b6d67" font-family="Arial, Helvetica, sans-serif" font-size="19">A live marketplace for long-term homes in Vietnam</text>
+  <line x1="80" y1="230" x2="1360" y2="230" stroke="#ded8cc"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(80 278)"><text fill="#165f43" font-size="47" font-weight="700">~4,000</text><text y="35" fill="#5e625c" font-size="17">listings created</text></g>
+    <g transform="translate(295 278)"><text fill="#165f43" font-size="47" font-weight="700">3,020</text><text y="35" fill="#5e625c" font-size="17">active listings</text></g>
+    <g transform="translate(510 278)"><text fill="#165f43" font-size="47" font-weight="700">~25k</text><text y="35" fill="#5e625c" font-size="17">unique visitors</text></g>
+    <g transform="translate(725 278)"><text fill="#165f43" font-size="47" font-weight="700">~126k</text><text y="35" fill="#5e625c" font-size="17">property views</text></g>
+    <g transform="translate(970 278)"><text fill="#165f43" font-size="47" font-weight="700">50+</text><text y="35" fill="#5e625c" font-size="17">listing authors</text></g>
+    <g transform="translate(1160 278)"><text fill="#165f43" font-size="47" font-weight="700">1.5 GB</text><text y="35" fill="#5e625c" font-size="17">optimized media</text></g>
+  </g>
+  <line x1="80" y1="382" x2="1360" y2="382" stroke="#ded8cc"/>
+  <text x="80" y="427" fill="#6b6d67" font-family="Arial, Helvetica, sans-serif" font-size="16">Snapshot as of 5 November 2026 · figures are reported product metrics, not live counters</text>
+  <circle cx="1345" cy="96" r="15" fill="#e6893a"/><path d="M1339 96h12M1345 90v12" stroke="#fffdf8" stroke-width="2" stroke-linecap="round"/>
+</svg>
